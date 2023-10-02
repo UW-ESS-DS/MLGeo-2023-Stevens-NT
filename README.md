@@ -24,8 +24,8 @@ Run this version of `conda env create` from the comments and gist in references 
 ntsteven@uw.edu
 
 ## References
-environment_AppleM1.yml install instructions based on:
- (1) https://caffeinedev.medium.com/how-to-install-tensorflow-on-m1-mac-8e9b91d93706
- (2) https://github.com/conda-forge/miniforge
- (3) https://developer.apple.com/forums/thread/711792
- (4) https://gist.github.com/corajr/a10af2f893c4b79275281f6b6fd915d3
+environment_AppleM1.yml install instructions based on:  
+(1) https://caffeinedev.medium.com/how-to-install-tensorflow-on-m1-mac-8e9b91d93706  
+(2) https://github.com/conda-forge/miniforge  
+(3) https://developer.apple.com/forums/thread/711792  
+(4) https://gist.github.com/corajr/a10af2f893c4b79275281f6b6fd915d3  
