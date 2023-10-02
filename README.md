@@ -3,10 +3,11 @@ NT Stevens' repository for ML in Geosciences Fall 2023 coursework codes
 
 ## Installation/Deployment
 ### For non Apple M1/M2 chips:
+This is the install instruction from the primary MLGeo-2023 repository:  
 `conda env create -f environment.yml`  
 
 ### For Apple M1/M2 chipped systems
-This requires a little more work to get tensorflow2 working on Apple Silicon  
+This requires a little more work to get tensorflow2 working on Apple Silicon...  
 
 Follow macOS-side installation instructions from references (1) & (2)  
     1. Install xcode command line tools  
