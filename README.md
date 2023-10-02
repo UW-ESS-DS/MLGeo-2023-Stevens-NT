@@ -8,14 +8,14 @@ NT Stevens' repository for ML in Geosciences Fall 2023 coursework codes
 ### For Apple M1/M2 chipped systems
 This requires a little more work to get tensorflow2 working on Apple Silicon  
 
-I)  Follow macOS-side installation instructions from references (1) & (2)  
-    a) Install xcode command line tools  
+Follow macOS-side installation instructions from references (1) & (2)  
+    1. Install xcode command line tools  
         `xcode-select --install`  
-    b) Install Miniforge - follow instructions in reference (2)  
-    c) Then turn off the default base environment (ref 1)  
+    2. Install Miniforge - follow instructions in reference (2)  
+    3. Then turn off the default base environment (ref 1)  
         `conda config --set auto_activate_base false`  
     
-II) Run this version of `conda env create` from the comments and gist in references (3) & (4), respectively  
+Run this version of `conda env create` from the comments and gist in references (3) & (4), respectively  
 `CONDA_SUBDIR=osx-arm64 conda env create -f environment_AppleM1.yml`  
 
 ## Basic Usage
