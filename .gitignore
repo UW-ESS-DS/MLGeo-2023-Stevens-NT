@@ -1,1 +1,4 @@
 homework/HW3_Data
+*.csv
+*.hdf5
+*.mseed
